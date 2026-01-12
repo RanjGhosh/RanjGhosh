@@ -1,7 +1,7 @@
 <h1 align="center">Ranjini Ghosh</h1>
 
 <p align="center">
-  <i>Math & Data Science @ Georgia Tech | Undergraduate Researcher in Machine Learning, Computational Modeling & Data Science</i>
+  <i>Math & Data Science @ Georgia Tech | Undergraduate Researcher at The Bhamla Lab and The Ramprasad Group</i>
 </p>
 
 ---
