@@ -31,7 +31,7 @@ I am currently seeking <strong>internships</strong> in <strong>data science</str
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 <strong>Developer Tools</strong><br/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
@@ -47,7 +47,7 @@ I am currently seeking <strong>internships</strong> in <strong>data science</str
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 <strong>Libraries</strong><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
