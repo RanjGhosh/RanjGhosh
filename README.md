@@ -1,7 +1,7 @@
 <h1 align="center">Ranjini Ghosh</h1>
 
 <p align="center">
-  <i>Math & Data Science @ Georgia Tech | Undergraduate Researcher in Machine Learning, Computation & Data Science</i>
+  <i>Math & Data Science @ Georgia Tech | Undergraduate Researcher in Machine Learning, Computational Modeling & Data-Driven Analysis</i>
 </p>
 
 ---
@@ -9,11 +9,11 @@
 <h2>About Me</h2>
 
 <p>
-I’m an undergraduate student at <strong>Georgia Institute of Technology</strong> majoring in <strong>Mathematics</strong> with a concentration in <strong>Data Science</strong>. I have research experience in machine learning, computational modeling, and data-driven analysis, with a strong interest in applying quantitative methods to real-world problems.
+I’m an undergraduate student at <strong>Georgia Institute of Technology</strong>, majoring in <strong>Mathematics</strong> with a concentration in <strong>Data Science</strong>. I conduct research in <strong>machine learning</strong>, <strong>computational modeling</strong>, and <strong>data-driven analysis</strong>, focusing on solving real-world problems with quantitative methods.
 </p>
 
 <p>
-My work spans data analysis, statistical modeling, and computational research, with experience collaborating in academic research environments and applying analytical thinking to interdisciplinary problems.
+My work spans <strong>statistical modeling</strong>, <strong:data analysis</strong>, and <strong>computational simulations</strong>. I enjoy collaborating on interdisciplinary research and applying analytical thinking to complex datasets.
 </p>
 
 <p>
@@ -52,13 +52,13 @@ I am currently seeking <strong>internships</strong> in <strong>data science</str
 
 ---
 
-<h2>Research & Academic Interests</h2>
+<h2>Research & Technical Interests</h2>
 
 <ul>
-  <li><strong>Machine Learning:</strong> supervised and unsupervised learning, model evaluation, optimization</li>
-  <li><strong>Data Science:</strong> statistical analysis, data preprocessing, visualization, inference</li>
-  <li><strong>Applied & Computational Mathematics:</strong> modeling, numerical methods, simulation</li>
-  <li><strong>Operations & Supply Chain Analytics:</strong> data-driven decision-making and optimization</li>
+  <li><strong>Machine Learning:</strong> supervised & unsupervised learning, model evaluation, optimization</li>
+  <li><strong>Data Science:</strong> statistical analysis, preprocessing, visualization, inference</li>
+  <li><strong>Computational & Applied Mathematics:</strong> modeling, simulation, numerical methods</li>
+  <li><strong>Operations & Supply Chain Analytics:</strong> data-driven decision-making, optimization</li>
 </ul>
 
 ---
