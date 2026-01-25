@@ -22,7 +22,7 @@ I am currently seeking <strong>internships</strong> in <strong>data science</str
 
 ---
 
-<h2>Tech Stack</h2>
+<h2>Tools and Technologies</h2>
 
 <strong>Languages</strong><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
