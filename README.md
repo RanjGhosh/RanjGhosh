@@ -66,9 +66,3 @@ I am currently seeking <strong>internships</strong> in <strong>data science</str
 
 ---
 
-<h2>Let’s Connect</h2>
-
-<ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/ranjini-ghosh-9a534423a/" target="_blank">linkedin.com/in/ranjini-ghosh</a></li>
-  <li>Email: <code>ranjini.ghosh0608@gmail.com</code></li>
-</ul>
